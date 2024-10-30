@@ -42,7 +42,7 @@ legend {
   font-weight: bold;
   font-size: 1.2rem;
   padding: 0 10px;
-  border: 2px solid #a3c1d1
+  border: 2px solid #a3c1d1;
   border-radius: 5px;
 }
 
@@ -58,14 +58,14 @@ select {
   width: 95%;
   margin: 0.5em 0;
   padding: 10px
-  border: 1px solid #ccc
+  border: 1px solid #ccc;
   border-radius: 10px;
   box-sizing: border-box;
 }
 
 input[type="text"]:focus, input[type="email"]:focus, textarea:focus, select:focus {
   outline: none;
-  border-color: #6f9da8
+  border-color: #6f9da8;
 }
 
 .radio-group {
